@@ -2,8 +2,8 @@
 title:            "chousawaの宅" # 添加博客标题
 author:           Chousawa # 添加你的名字
 logo:             logo.png # 添加博客 Logo
-avatar:           avatar.png # 添加你的头像
-favicon:          http://findicons.com/files/icons/72/harmonia_pastelis/128/hp_cat.png # 添加用于显示于浏览器 Tab 上的博客图标
+avatar:           http://findicons.com/files/icons/72/harmonia_pastelis/128/hp_cat.png # 添加你的头像
+favicon:           # 添加用于显示于浏览器 Tab 上的博客图标
 email:            chousawa@gmail.com
 description: >    # 主题简介，可改为博客描述
   只是个还有点用处的人罢了。
