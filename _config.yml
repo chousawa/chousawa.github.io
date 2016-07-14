@@ -15,7 +15,7 @@ twitter:          chousawa# 添加你的 Twitter 用户名
 github:           chousawa # 添加你的 GitHub 用户名
 disqus:           # 添加你的 Disqus 评论工具站点名
 
-permalink:        pretty
+permalink:        /:title
 paginate:         5
 
 # Build settings
