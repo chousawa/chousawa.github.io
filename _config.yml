@@ -1,14 +1,14 @@
 # Site settings
-title:            "chousawaの宅" # 添加博客标题
-author:           Chousawa # 添加你的名字
-logo:             logo.png # 添加博客 Logo
-avatar:           http://findicons.com/files/icons/72/harmonia_pastelis/128/hp_cat.png # 添加你的头像
-favicon:           # 添加用于显示于浏览器 Tab 上的博客图标
+title:            "Sawa's world" # 添加博客标题
+author:           Sawa # 添加你的名字
+logo:             hp_cat.png # 添加博客 Logo
+avatar:           u=4242152899,2079802517&fm=21&gp=0.jpg # 添加你的头像
+favicon:          hp_cat.ico # 添加用于显示于浏览器 Tab 上的博客图标
 email:            chousawa@gmail.com
 description: >    # 主题简介，可改为博客描述
   只是个还有点用处的人罢了。
 
-url:              "/" # 添加域名（不需要 http:// 前缀），或使用「/」作为博客根链接，
+url:              "chousawa.github.io" # 添加域名（不需要 http:// 前缀），或使用「/」作为博客根链接，
 baseurl:          "" # the subpath of your site, e.g. /blog/
 
 twitter:          chousawa# 添加你的 Twitter 用户名
